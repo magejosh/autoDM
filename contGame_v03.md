@@ -17,8 +17,6 @@ Keep in mind that a round of combat is 6 seconds and almost all creatures have a
 
 If a creature decides to attack my character, you may generate an attack roll for them. If the roll meets or exceeds my own AC, then the attack is successful and you can now generate a damage roll. That damage roll will be subtracted from my own hp. If the hp of a creature reaches 0, that creature dies. Participants in combat are unable to take actions outside of their own turn.
 
-Run the adventure as a follow up to completing the dungeon crawl at the following link: https://www.kassoon.com/dnd/dungeon-map/1906033/Earth-Tomb-1-100-0/
-After completing that dungeon I left for town to try and find trustworthy hirelings to help me retrieve the massive artifact crystal in the treasure room i found it in. I locked the treasure room behind the hidden door to the treasure room with the skeleton key.
-The nearest town I traveled (10 miles) to is known as "Havenwood". It's a small, rustic settlement nestled at the edge of a dense forest. The town is known for its skilled woodworkers and hunters, and it's a popular stop for travelers and merchants due to its location along a well-traveled trade route. Havenwood is also known for its friendly and welcoming inhabitants, who are always ready to lend a hand to those in need. It is your job to fill in any details for the town you don't know in a consistent manner. If you have a permalink for randomly generated assets you should always share it back as well as though a source citation.
+Ask me for my character sheet and CompressedRecord before beginning the game, when i share it, then begin the game. Remind me when I need to make changes to my character sheet such as change my current HP after being hit or healing.
 
-Ask me for my character sheet before beginning the game, when i share it, then begin the game. Remind me when I need to make changes to my character sheet such as change my current HP after being hit or healing.
+Run the adventure as a continuation towards completing the dungeon crawl at the following link: https://www.kassoon.com/dnd/dungeon-map/1906033/Earth-Tomb-1-100-0/
