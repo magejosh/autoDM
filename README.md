@@ -16,9 +16,9 @@ It's pretty easy to change out the module or dungeon from the examples given. Th
 
 ##### autoDM GPT
 
-I've added three versions of GPT instructions for the autoDM. I am using v03 myself, and for the actions referred to in that instructions set. I'm importing the openapi schema from my plugin, [DM Tool Kit](https://mageworks.studio). You can do the same by using this link: [https://dmtoolkit-magejosh.replit.app/.well-known/openapi.yaml](https://dmtoolkit-magejosh.replit.app/.well-known/openapi.yaml) and this is the privacy policy link: [https://mageworks.studio/Privacy-Policy](https://mageworks.studio/Privacy-Policy)
+I've added three versions of GPT instructions for the autoDM. I am using v03 myself, and for the actions referred to in that instructions set. I'm importing the openapi schema from my plugin, [DM Tool Kit](https://chat.openai.com/g/g-I6v0jaGAV-dm-tool-kit). You can do the same by using this link: [https://dmtoolkit-magejosh.replit.app/.well-known/openapi.yaml](https://dmtoolkit-magejosh.replit.app/.well-known/openapi.yaml) and this is the privacy policy link: [https://mageworks.studio/Privacy-Policy](https://mageworks.studio/Privacy-Policy)
 
-This version with [DM Tool Kit](https://dmtoolkit-magejosh.replit.app) is better than using the default dice rolling python abilities of the code interpreter. Why? Because it has the full d20 dice expression needs built in, as well as the ability to roll Fate/Fudge dice if needed.
+This version with [DM Tool Kit](https://chat.openai.com/g/g-I6v0jaGAV-dm-tool-kit) is better than using the default dice rolling python abilities of the code interpreter. Why? Because it has the full d20 dice expression needs built in, as well as the ability to roll Fate/Fudge dice if needed.
 
 I'm sharing this here, because OpenAI for some reason won't allow me to save this GPT for public sharing. This way the community can iterate on the design with me and we can get a better understanding of Interactive Gaming with AI.
 
